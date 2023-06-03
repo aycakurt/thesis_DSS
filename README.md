@@ -1,6 +1,4 @@
 # Thesis DS&S 
-
-## Why?
 This repository is a way to share my code for my thesis regarding the lexical diversity of human-written and ChatGPT-generated answers. Additionally, Machine Learning (ML) algorithms (Logistic Regression (LR), Support Vector Machine (SVM), Decision Tree (DT) and Naive Bayes (NB)) and a Deep Learning (DL) model (DistilBERT) were used for AI-generated text detection.
 
 ## Information
