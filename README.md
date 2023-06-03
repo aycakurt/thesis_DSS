@@ -2,12 +2,12 @@
 
 ## Information
 
-| Information      |                            |
-|:----------------:|:--------------------------:|
+| Front matter     | Information student        |
+|:----------------:|----------------------------|
 | *Name*           | Ayça Kurt                  |
 | *Student number* | u546753                    |
 | *Committee*      | dr. Eva Vanmassenhove <br /> dr. Mirella De Sisto      |
-| *Location*       | Tilburg University         |
+| *Location*       | Tilburg University <br />  School of Humanities and Digital Sciences <br /> Department of Cognitive Science & <br /> Artificial Intelligence <br /> Tilburg, The Netherlands|
 
 
 ## Why?
