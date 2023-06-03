@@ -6,7 +6,7 @@
 |:----------------:|:--------------------------:|
 | *Name*           | Ayça Kurt                  |
 | *Student number* | u546753                    |
-| *Committee*      | dr. Eva Vanmassenhove      |
+| *Committee*      | dr. Eva Vanmassenhove\dr. Mirella De Sisto      |
 | *Location*       | Tilburg University         |
 
 
