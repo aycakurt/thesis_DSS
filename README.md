@@ -1,17 +1,15 @@
-# Thesis Data Science & Society
-
-## Information
-
-| Front matter     | Information student        |
-|:----------------:|----------------------------|
-| *Name*           | Ayça Kurt                  |
-| *Student number* | u546753                    |
-| *Committee*      | dr. Eva Vanmassenhove <br /> dr. Mirella De Sisto      |
-| *Location*       | Tilburg University <br />  School of Humanities and Digital Sciences <br /> Department of Cognitive Science & <br /> Artificial Intelligence <br /> Tilburg, The Netherlands|
-
+# Thesis DS&S 
 
 ## Why?
 This repository is a way to share my code for my thesis regarding the lexical diversity of human-written and ChatGPT-generated answers. Additionally, Machine Learning (ML) algorithms (Logistic Regression (LR), Support Vector Machine (SVM), Decision Tree (DT) and Naive Bayes (NB)) and a Deep Learning (DL) model (DistilBERT) were used for AI-generated text detection.
+
+## Information
+| Front matter     | Information                |
+|:----------------:|----------------------------|
+| *Name student*   | Ayça Kurt                  |
+| *Student number* | u546753                    |
+| *Committee*      | dr. Eva Vanmassenhove <br /> dr. Mirella De Sisto      |
+| *Location*       | Tilburg University <br />  School of Humanities and Digital Sciences <br /> Department of Cognitive Science & <br /> Artificial Intelligence <br /> Tilburg, The Netherlands|
 
 ## Structure
 - lexical_diversity.ipynb contains the code for the analysis regarding the lexical diversity.
