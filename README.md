@@ -3,7 +3,7 @@
 ## Information
 
 | Information      |                            |
-| -------------    |:--------------------------:|
+|:----------------:|:--------------------------:|
 | *Name*           | Ayça Kurt                  |
 | *Student number* | u546753                    |
 | *Committee*      | dr. Eva Vanmassenhove      |
